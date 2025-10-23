@@ -1,5 +1,19 @@
-В данном проекте находятся все сделанные заранее домашние задания.
-
-Номера домашних заданий соответствуют номерам веток.
-
-Домашние задания хранятся в папке resources
+**HOMEWORK6**
+- .idea/
+    - misc.xml
+    - modules.xml
+    - vcs.xml
+    - workspace.xml
+    - HOMEWORK6.iml
+- src/
+    - main/
+        - homework.kovcha/
+            - Main.java
+        - resources/
+            - ШИФТ Полина Ковча ДЗ№_1.docx
+            - ШИФТ Полина Ковча ДЗ№_2.docx
+            - Ковча Полина Sequence ДЗ 3.pdf
+            - Postman Library API v2 collection.postman_collection ДЗ 4.json
+            - Полина Ковча ДЗ5.jmx
+- README.md
+- .gitignore  
