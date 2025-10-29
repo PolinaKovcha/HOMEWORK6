@@ -7,13 +7,12 @@
     - HOMEWORK6.iml
 - src/
     - main/
-        - homework.kovcha/
-            - Main.java
-        - resources/
+        - homework/
             - ШИФТ Полина Ковча ДЗ№_1.docx
             - ШИФТ Полина Ковча ДЗ№_2.docx
             - Ковча Полина Sequence ДЗ 3.pdf
             - Postman Library API v2 collection.postman_collection ДЗ 4.json
             - Полина Ковча ДЗ5.jmx
+            - technical_task_for_testplan
 - README.md
 - .gitignore  
